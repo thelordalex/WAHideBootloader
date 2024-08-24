@@ -40,7 +40,7 @@ WAHideBootloader is a Magisk module designed to hide the bootloader status from 
 ## Notes
 
 - **Warning**: Use this module with caution as it may affect system behavior and other apps.
-- **Testing**: Ensure to test the module thoroughly to avoid unexpected issues.
+- **Testing**: Tested working fine.
 
 ## Contributing
 
