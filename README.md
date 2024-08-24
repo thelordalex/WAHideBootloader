@@ -1,3 +1,6 @@
+![WAHideBootloader Image 1](https://github.com/thelordalex/WAHideBootloader/blob/main/WAHideBootloader%20(1).jpg)
+![WAHideBootloader Image 2](https://github.com/thelordalex/WAHideBootloader/blob/main/WAHideBootloader%20(2).jpg)
+
 # WAHideBootloader
 
 WAHideBootloader is a Magisk module designed to hide the bootloader status from specific applications, including WhatsApp and WhatsApp Business. This module helps bypass bootloader status checks required by some apps.
