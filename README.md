@@ -1,3 +1,5 @@
+It is not currently working because of WhatsApp updates - Soon to be update
+
 ![WAHideBootloader Image 1](https://github.com/thelordalex/WAHideBootloader/blob/main/WAHideBootloader%20(1).jpg)
 ![WAHideBootloader Image 2](https://github.com/thelordalex/WAHideBootloader/blob/main/WAHideBootloader%20(2).jpg)
 
